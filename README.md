@@ -5,12 +5,12 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
+- 💡 I am currently a sophomore majoring in **Computer Science and Technology.**
 - 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Competitive programming and DSA.**
-- 👯 I’m looking to collaborate on **Java and Web Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
-- 💬 Ask me about **Java, HTML and CSS.**
+- 🌱 I’m currently learning **Four principles of computer.**
+- 👯 I’m looking to collaborate on **WeChat mini programs and Android app projects.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Hao-star123?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hao-star123" height="30" width="40" /></a>
+- 💬 Welcome to communicate with me.
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-star123&theme=radical&hide_border=true"/>
